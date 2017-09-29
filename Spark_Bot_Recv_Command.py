@@ -1,7 +1,7 @@
 from flask import Flask, request
 from MheeMheeSparkBot import *
 from MheeMheeCiscoAPI import *
-Bot_Authorization = 'Bearer Y2M5YTY3NDktZDU4YS00ZTIyLWJiZjMtZWUzODM2NjJkODIwMjE0M2JhYWMtOTJj'
+Bot_Authorization = 'Bearer MWU2MTlkNDgtNmI3My00ZWQ5LTgzNWQtMWNhNzMzMjJmNTgzM2FhMjU5NDEtN2Vj'
 User_Authorization = "Bearer OTMxMDIxYWYtZmRhYS00ZWQ0LWIzYmMtYjk2ZmI4N2UwYWFkOWU0YzBiZmMtODRh"
 
 
